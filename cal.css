@@ -85,6 +85,7 @@ body,html {
 @media (max-width : 580px) {
   .calDisplay .input {
      font-size: 15vw;
+     font-weight: 650; 
     };
 
    #div2 .calDisplay {
